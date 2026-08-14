@@ -38,7 +38,7 @@ model performance against classical time-series baselines.
 │   └── model_results/     # Metrics CSVs, feature importance CSV
 ├── report/
 │   └── report.pdf         # 2-page analytical report
-└── requirements.txt
+└── README.md
 ```
 
 ## Data Sources

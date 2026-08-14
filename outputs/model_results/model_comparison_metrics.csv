@@ -1,0 +1,4 @@
+model,MAE,RMSE,MAPE_%
+Naive Persistence,3.738,10.303,165.46
+"ARIMA(1,1,1) per state",9.775,17.914,673.91
+"XGBoost (pooled, full features)",1.273,5.395,99.33

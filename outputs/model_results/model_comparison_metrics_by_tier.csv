@@ -1,0 +1,7 @@
+model,tier,MAE,RMSE,MAPE_%
+Naive Persistence,high_burden,7.031,14.55,246.34
+Naive Persistence,low_burden,0.445,0.757,78.1
+"ARIMA(1,1,1) per state",high_burden,17.499,25.1,765.44
+"ARIMA(1,1,1) per state",low_burden,2.051,3.431,575.05
+"XGBoost (pooled, full features)",high_burden,2.271,7.621,143.36
+"XGBoost (pooled, full features)",low_burden,0.275,0.37,51.77
